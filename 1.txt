@@ -1,3 +1,7 @@
 hi this is 1 file
+<<<<<<< HEAD
 hello
 good morning
+=======
+good evening
+>>>>>>> featureA
